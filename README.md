@@ -1,1 +1,1 @@
-# ELE432--Lab-3-Multicycle-Processor
+# HACETTEPE UNIVERSITY ELE432 ADVANCED DIGITAL DESIGN --Lab-3-Multicycle-Processor
